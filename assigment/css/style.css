@@ -1,0 +1,28 @@
+.row-header{
+    margin:0px auto;
+    padding:0px;
+}
+
+.row-content {
+    margin:0px auto;
+    padding: 50px 0px 50px 0px;
+    border-bottom: 1px ridge;
+    min-height:400px;
+}
+
+.footer{
+    background-color: #7D9F82;
+    margin:0px auto;
+    padding: 20px 0px 20px 0px;
+}
+
+.header {
+	background-color: #7D9F82;
+}
+
+@media (max-width: 576px) {
+.hidden-sm-down {
+	display: none !important;
+
+	}
+}
